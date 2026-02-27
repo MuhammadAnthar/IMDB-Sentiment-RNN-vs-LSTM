@@ -10,11 +10,9 @@ Studi ini menyoroti tantangan **long-term dependencies** pada teks panjang, sert
 3. Mengevaluasi model menggunakan metrik klasifikasi dan confusion matrix.
 
 ## 📊 Data
-Dataset: **IMDB Movie Review**
-- Total **50.000 ulasan**
-- Label seimbang:
-  - **25.000 positif**
-  - **25.000 negatif**
+Dataset yang digunakan adalah **IMDB Dataset of 50K Movie Reviews** dari Kaggle (author: **lakshmi25npathi**). Dataset berisi **50.000 ulasan** dengan label seimbang (**25.000 positif** dan **25.000 negatif**).
+Sumber dataset:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 
 ## 🔄 Alur Proyek
