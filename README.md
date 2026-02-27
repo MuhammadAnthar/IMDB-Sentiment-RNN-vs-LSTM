@@ -1,4 +1,3 @@
-# IMDB-Sentiment-RNN-vs-LSTM
 # IMDB Sentiment Analysis: RNN vs LSTM
 
 ## 📘 Studi Kasus
